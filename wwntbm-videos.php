@@ -66,6 +66,7 @@ add_action(
 			'public'              => true,
 			'show_ui'             => true,
 			'show_in_menu'        => true,
+			'show_in_rest'        => true,
 			'menu_position'       => 15,
 			'menu_icon'           => 'dashicons-format-video',
 			'show_in_admin_bar'   => true,
